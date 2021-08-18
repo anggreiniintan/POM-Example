@@ -1,2 +1,2 @@
 # POM-Example
-QA Automation Page Object Model (POM)
+QA Automation With Page Object Model (POM)
